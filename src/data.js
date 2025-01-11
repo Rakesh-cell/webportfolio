@@ -1,15 +1,15 @@
 export const projects = [
     {
-      title: "Employee Feedback app",
-      subtitle: "React Native and Javascript",
+      title: "Expense Tracker",
+      subtitle: "JavaScript, HTML & CSS",
       description:
-        "An simple application for employee feedback",
+        "An simple application for Expense tracking",
       image: require("./ecommerce.png"),
-      link: "https://github.com/Rakesh-cell/neoscrum_app",
+      link: "https://pavankalyan-18.github.io/Expense-Tracker/",
     },
     {
       title: "Ecommerce application",
-      subtitle: "React Native and Javascript",
+      subtitle: "Python(Django), HTML & CSS",
       description:
         "An application for Online shopping ",
       image: require("./social_login.png"),
